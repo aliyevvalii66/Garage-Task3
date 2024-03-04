@@ -19,14 +19,15 @@
 //Console.WriteLine($"Index : {FindCharIndex(word,letter) }");
 #endregion
 #region Task-2
-//Console.Write("Siyahinin uzunlugu : ");
+//Console.Write("Fennlerin sayi : ");
 //int size = int.Parse(Console.ReadLine());
 
 //int[] points = new int[size];
 
 //for (int i = 0; i < size; i++)
 //{
-//    Console.WriteLine($"Deyer daxil edin.({i+1})");
+//    Console.WriteLine($"Qiymet daxil edin" +
+//        $".({i + 1})");
 //    points[i] = int.Parse(Console.ReadLine());
 //}
 //Console.WriteLine("-----------------------------------------");
@@ -34,16 +35,18 @@
 //double CalcAvg(int[] arr)
 //{
 //    int sum = 0;
-//    for (int i = 0;i < arr.Length; i++)
+//    for (int i = 0; i < arr.Length; i++)
 //    {
 //        sum += arr[i];
 //    }
 
-//    return sum/2;
+//    return sum / arr.Length;
 //}
-//Console.WriteLine($"Ortalama --->{CalcAvg(points)}"); ;
-
-
+//double ortalama = CalcAvg(points);
+//if(ortalama > 60)
+//    Console.WriteLine($"mezun oldunuz, ortalama baliniz--->{ortalama}");
+//else
+//    Console.WriteLine($"mezun ola bilmediniz--->{ortalama}");
 
 #endregion
 #region Task-3

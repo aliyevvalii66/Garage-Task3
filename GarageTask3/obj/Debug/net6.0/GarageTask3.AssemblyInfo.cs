@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GarageTask3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c97b4dd96d0b4d774fd7193dda98946947f03a31")]
 [assembly: System.Reflection.AssemblyProductAttribute("GarageTask3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GarageTask3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
